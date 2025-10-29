@@ -23,6 +23,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![GNU GDB](https://img.shields.io/badge/GNU%20GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-8A2BE2?style=for-the-badge&logo=prolog&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=32bikram&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=32bikram&theme=material-palenight&hide_border=false)<br/>
