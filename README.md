@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @32bikram  
+👋 Hi, I’m Bikram Sarkar
 🎓 A 3rd year student at Jadavpur University in the Dept. of IT  
 👀 Interested in - Web Development, Data Engineering, Poster Design  
 🌱 Currently learning - JavaScript    
