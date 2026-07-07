@@ -24,13 +24,22 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![GNU GDB](https://img.shields.io/badge/GNU%20GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-8A2BE2?style=for-the-badge&logo=prolog&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=32bikram&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=32bikram&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=32bikram&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=32bikram&show_icons=true&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-vercel.vercel.app?user=32bikram&theme=material-palenight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=32bikram&layout=compact&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
+
+---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=32bikram&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+---
+
+### 🔝 Top Contributed Repositories
+
 ![](https://github-contributor-stats.vercel.app/api?username=32bikram&limit=5&theme=dark&combine_all_yearly_contributions=true)
