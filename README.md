@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram-sarkar-b90521257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bikramdsarkar/)
 # 📊 GitHub Stats
----
+
 <p align="center">
   <img
     src="https://ghstats.dev/api/card?username=32bikram&theme=ocean&hide_title=true&border_radius=19&size=compact&order=grade%2Cstreak%2Ccommits%2Cweek%2Chours%2Ctrend%2Cissues%2Cprs%2Cstars%2Cavg%2Cactive_day%2Ccontributions%2Crepos%2Cfollowers"
@@ -22,7 +22,7 @@
     alt="GitHub Stats Card"
   />
 </p>
----
+
 # 💻 Tech Stack
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
