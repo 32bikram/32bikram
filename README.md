@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bikram Sarkar</h1>
-<h3 align="center">Final Year IT Student @ Jadavpur University | Backend Developer | DSA Enthusiast</h3>
-
---
+<h1 align="left">Hi 👋, I'm Bikram Sarkar</h1>
+<h3 align="left">Final Year IT Student @ Jadavpur University | Backend Developer | DSA Enthusiast</h3>
 
 ## 💫 About Me
 
@@ -11,41 +9,28 @@
 - 🧩 Solving problems on **LeetCode** and **Codeforces**
 - 🎨 Interested in **Poster Design**, **Music**, and **Poetry**
 
---
-
 ## 🌐 Connect with Me
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kiertolainen/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram-sarkar-b90521257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bikramdsarkar/)
-
---
-
+# 📊 GitHub Stats
+![GitHub Stats Card](https://ghstats.dev/api/card?username=32bikram&theme=forest&border_radius=0)
 # 💻 Tech Stack
-
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ### Backend & Database
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
---
-
-# 📊 GitHub Stats
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=32bikram&theme=forest&border_radius=0)
---
 
 # 📈 Contribution Graph
 
