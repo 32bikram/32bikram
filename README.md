@@ -25,11 +25,8 @@
 ![GNU GDB](https://img.shields.io/badge/GNU%20GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-8A2BE2?style=for-the-badge&logo=prolog&logoColor=white)
 # 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=32bikram&show_icons=true&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-streak-vercel.vercel.app?user=32bikram&theme=material-palenight&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=32bikram&layout=compact&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
