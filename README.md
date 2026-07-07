@@ -73,16 +73,3 @@
 [![Bikram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=32bikram&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-# 📌 Current Focus
-
-- 🚀 Preparing for Software Engineering placements
-- 🧠 Solving LeetCode regularly
-- ⚙️ Building Backend Projects with FastAPI & Redis
-- 🤖 Exploring RAG Systems and LLM Applications
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=32bikram&label=Profile%20Views&color=blueviolet&style=flat"/>
-</p>
