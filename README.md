@@ -17,7 +17,7 @@
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=32bikram&theme=ocean&hide_title=true&border_radius=19&size=compact&order=grade%2Cstreak%2Ccommits%2Cweek%2Chours%2Ctrend%2Cissues%2Cprs%2Cstars%2Cavg%2Cactive_day%2Ccontributions%2Crepos%2Cfollowers"
+    src="https://gitfut.com/32bikram"
     width="100%"
     alt="GitHub Stats Card"
   />
