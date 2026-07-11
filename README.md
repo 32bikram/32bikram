@@ -13,15 +13,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kiertolainen/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram-sarkar-b90521257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bikramdsarkar/)
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://gitfut.com/32bikram"
-    width="100%"
-    alt="GitHub Stats Card"
-  />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=32bikram&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=32bikram&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=32bikram&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 💻 Tech Stack
 ### Languages
@@ -38,6 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 # 📈 Contribution Graph
 [![Bikram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=32bikram&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
