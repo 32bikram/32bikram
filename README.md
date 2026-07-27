@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Bikram Sarkar</h1>
-<h3 align="left">Final Year IT Student @ Jadavpur University | Backend Developer | DSA Enthusiast</h3>
+<h3 align="left">Final Year IT Student @ Jadavpur University | Aspiring Backend Developer | DSA Enthusiast</h3>
 
 ## 💫 About Me
 
