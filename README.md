@@ -2,17 +2,9 @@
 <h3 align="left">Final Year IT Student @ Jadavpur University | Aspiring Backend Developer | DSA Enthusiast</h3>
 
 ## 💫 About Me
-
-- 🎓 Final Year Information Technology student at **Jadavpur University**
-- 💻 Passionate about **Backend Development** and **System Design**
-- 🌱 Currently learning **FastAPI, Redis, RAG Systems & Advanced DSA**
+- 💻 Passionate about **Backend Development**
+- 🌱 Currently learning **FastAPI, Redis, Postgress & Advanced DSA**
 - 🧩 Solving problems on **LeetCode** and **Codeforces**
-- 🎨 Interested in **Poster Design**, **Music**, and **Poetry**
-
-## 🌐 Connect with Me
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kiertolainen/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram-sarkar-b90521257/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bikramdsarkar/)
 
 # 💻 Tech Stack
 ### Languages
@@ -29,4 +21,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🌐 Connect with Me
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kiertolainen/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram-sarkar-b90521257/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bikramdsarkar/)
 ---
